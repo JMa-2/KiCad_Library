@@ -28,4 +28,5 @@
   (tbtext "Sheet: ${SHEETNAME}" (name "") (pos 109 17))
   (line (name "") (start 90 8.5) (end 90 5.5))
   (line (name "") (start 26 8.5) (end 26 2))
+  (tbtext "A\nJcM\nDESIGN" (name "") (pos 2.5 15.75) (font (size 1.25 1.25) bold italic) (justify right))
 )
